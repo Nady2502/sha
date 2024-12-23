@@ -40,8 +40,8 @@ document.addEventListener("DOMContentLoaded", function () {
   ];
 
   const targetDay = 25;
-  const targetMonthIndex = 2; // FEb
-  const targetYear = 2024;
+  const targetMonthIndex = 1; // FEb
+  const targetYear = 2025;
   const birthYear = 2011;
 
   let currentDay = 1;
