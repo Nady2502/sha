@@ -39,10 +39,10 @@ document.addEventListener("DOMContentLoaded", function () {
     "December",
   ];
 
-  const targetDay = 7;
-  const targetMonthIndex = 11; // December
+  const targetDay = 25;
+  const targetMonthIndex = 2; // FEb
   const targetYear = 2024;
-  const birthYear = 2001;
+  const birthYear = 2011;
 
   let currentDay = 1;
   let currentMonthIndex = 0;
